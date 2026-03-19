@@ -13,8 +13,8 @@ Analyze the Library Management System and model its components through the follo
 6.Package Diagram – Organizes classes and components into packages for modular structure.
 ```
 # DIAGRAMS:
-## NAME:CHANDRU K
-## REG NO:212224220017
+## NAME: JAGANDRA VINU SIVA S
+## REG NO: 212224043001
 
 ## USE CASE DIAGRAM
 
